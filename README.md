@@ -1,4 +1,4 @@
-# whos-that-pokemon-cnn
+# find-that-pokemon-cnn
 
 A convolutional neural network model that can idenitfy specific Pokemon from Pokemon collages. The CNN model is based on the U-NET architechure. The goal of the project is to learn how CNN and U-NET functions.
 
